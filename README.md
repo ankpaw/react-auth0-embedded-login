@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to run this app
+- Go to .env file and add your Auth0 Client Id and Domain
+- run npm i to install all dependencies
+- run npm start to run the app
+
 ## Available Scripts
 
 In the project directory, you can run:
